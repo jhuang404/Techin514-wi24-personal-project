@@ -1,7 +1,0 @@
-#,Reference,Qty,Value,Footprint,DNP,Power,Duty Cycle
-1,BT1,1,Battery,,,0,100%
-2,D1,1,LED,LED_SMD:LED_0201_0603Metric,,16.5mW,50%
-3,R1,1,150?,Resistor_SMD:R_0201_0603Metric,,0,100%
-4,SW1,1,SW_Nidec_CAS-120A1,Button_Switch_SMD:Nidec_Copal_CAS-120A,,0,1%
-5,U1,1,MPU-6050,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,,6.44mW,50%
-6,U2,1,MOUDLE-SEEEDUINO-XIAO-ESP32C3,XIAO:MOUDLE14P-SMD-2.54-21X17.8MM,,132mW,20%/80%
